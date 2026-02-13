@@ -19,9 +19,8 @@
     "dist",
     "README.md"
   ],
- "scripts": {
-  "build": "tsc"
-},
+  "scripts": {
+    "build": "tsc"
   },
   "keywords": [
     "design-system",
